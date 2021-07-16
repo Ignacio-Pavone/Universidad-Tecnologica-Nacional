@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\ceci\documents\proyecto final\pila.c
+	"pila.h"
+
+1490112217 c:\users\ceci\documents\proyecto final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624367887 source:c:\users\ceci\documents\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
